@@ -1,0 +1,690 @@
+{
+    "timestamp": "2024-11-09T22:59:52.023082",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-09T23:00:01.805488",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-09T23:00:06.555255",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-09T23:00:12.430499",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-09T23:00:57.426093",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-09T23:02:08.749599",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-09T23:02:31.501731",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-09T23:02:38.321118",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-09T23:02:41.276517",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-09T23:02:43.199010",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-09T23:03:02.931942",
+    "user": "rashid_yusubov",
+    "action": "cp file1.txt file1_copy.txt"
+}
+{
+    "timestamp": "2024-11-09T23:03:05.802767",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-09T23:03:12.842480",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-10T02:24:32.209501",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-10T02:24:41.103610",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-10T02:38:11.271253",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}{
+    "timestamp": "2024-11-10T02:38:12.566359",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}{
+    "timestamp": "2024-11-10T02:38:13.324417",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}{
+    "timestamp": "2024-11-10T02:38:14.382139",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}{
+    "timestamp": "2024-11-10T02:38:17.288164",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}{
+    "timestamp": "2024-11-10T03:12:45.037313",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-10T03:12:50.770472",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-10T03:12:53.721825",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-10T03:12:56.649738",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-10T03:13:14.294689",
+    "user": "rashid_yusubov",
+    "action": "cp file1.txt file1_copy.txt"
+}
+{
+    "timestamp": "2024-11-10T03:13:19.299023",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-10T03:13:23.000788",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-10T03:13:26.334941",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-10T03:17:25.879523",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-10T03:17:30.013644",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-10T03:17:32.170184",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-10T03:17:48.922602",
+    "user": "rashid_yusubov",
+    "action": "cp file1.txt file1_cpoy.txt"
+}
+{
+    "timestamp": "2024-11-10T03:17:56.987225",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-10T03:18:02.794943",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-10T03:18:05.809104",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T12:46:06.343213",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:46:15.014069",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T12:46:16.220193",
+    "user": "rashid_yusubov",
+    "action": "cd ././"
+}
+{
+    "timestamp": "2024-11-15T12:46:17.709892",
+    "user": "rashid_yusubov",
+    "action": "cd failed for ///"
+}
+{
+    "timestamp": "2024-11-15T12:46:18.767783",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:46:20.587161",
+    "user": "rashid_yusubov",
+    "action": "cd failed for sasdasd"
+}
+{
+    "timestamp": "2024-11-15T12:46:22.355897",
+    "user": "rashid_yusubov",
+    "action": "cd ././."
+}
+{
+    "timestamp": "2024-11-15T12:46:24.464656",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:46:25.232732",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T12:46:29.212268",
+    "user": "rashid_yusubov",
+    "action": "cd failed for ////"
+}
+{
+    "timestamp": "2024-11-15T12:46:31.182314",
+    "user": "rashid_yusubov",
+    "action": "cd failed for ............"
+}
+{
+    "timestamp": "2024-11-15T12:46:34.138528",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T12:46:43.285907",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-15T12:46:47.697653",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T12:46:49.167705",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:46:50.923034",
+    "user": "rashid_yusubov",
+    "action": "cd etc"
+}
+{
+    "timestamp": "2024-11-15T12:46:52.327260",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T12:47:03.869474",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:47:13.698224",
+    "user": "rashid_yusubov",
+    "action": "cd failed for home"
+}
+{
+    "timestamp": "2024-11-15T12:47:14.977986",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:47:18.564343",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T12:47:20.858162",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T12:47:21.553015",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:47:45.403518",
+    "user": "rashid_yusubov",
+    "action": "cp failed for reg.ch to /"
+}
+{
+    "timestamp": "2024-11-15T12:47:52.011505",
+    "user": "rashid_yusubov",
+    "action": "cp reg.sh /"
+}
+{
+    "timestamp": "2024-11-15T12:47:54.833993",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T12:47:55.520295",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:47:58.853548",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:48:00.260100",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T12:48:01.256905",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:48:23.701386",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T12:48:26.084803",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:49:43.069715",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T12:56:36.564603",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:56:42.484485",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T12:56:44.391548",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:57:00.537438",
+    "user": "rashid_yusubov",
+    "action": "cp failed for reg.sh to /"
+}
+{
+    "timestamp": "2024-11-15T12:57:08.964435",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T12:57:37.236267",
+    "user": "rashid_yusubov",
+    "action": "cp failed for file1.txt to /"
+}
+{
+    "timestamp": "2024-11-15T12:58:45.408817",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T12:58:49.634406",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:58:52.357373",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T12:58:54.474302",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T12:59:03.636539",
+    "user": "rashid_yusubov",
+    "action": "cp failed for file1.txt to /"
+}
+{
+    "timestamp": "2024-11-15T12:59:24.174397",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T13:00:20.766861",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:00:23.457406",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:00:30.571235",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:00:39.514974",
+    "user": "rashid_yusubov",
+    "action": "cp file1.txt /"
+}
+{
+    "timestamp": "2024-11-15T13:00:46.575630",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T13:00:48.463085",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:00:58.864447",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:01:00.478357",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:01:03.624290",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:01:57.280826",
+    "user": "rashid_yusubov",
+    "action": "cd failed for home"
+}
+{
+    "timestamp": "2024-11-15T13:02:05.922230",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T13:02:08.912927",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-15T13:02:39.104050",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T13:04:44.680888",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:04:50.111540",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:04:51.397090",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:05:03.706542",
+    "user": "rashid_yusubov",
+    "action": "cp input.txt /"
+}
+{
+    "timestamp": "2024-11-15T13:05:04.914077",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:05:06.044251",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T13:05:07.648770",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:05:18.208612",
+    "user": "rashid_yusubov",
+    "action": "cp input.txt etc"
+}
+{
+    "timestamp": "2024-11-15T13:05:19.838342",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:05:24.665942",
+    "user": "rashid_yusubov",
+    "action": "cd etc"
+}
+{
+    "timestamp": "2024-11-15T13:05:25.885468",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:06:43.881571",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T13:09:20.352030",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:09:26.120974",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:09:58.393469",
+    "user": "rashid_yusubov",
+    "action": "cp failed for input.txt to /"
+}
+{
+    "timestamp": "2024-11-15T13:11:46.714932",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T13:11:51.823691",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:11:53.896942",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:11:56.330572",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T13:11:58.628202",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:12:06.769268",
+    "user": "rashid_yusubov",
+    "action": "cp failed for input.txt to /"
+}
+{
+    "timestamp": "2024-11-15T13:12:38.372369",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-15T13:12:42.696701",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:12:45.299490",
+    "user": "rashid_yusubov",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-15T13:12:47.400791",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T13:12:49.269178",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:12:58.794063",
+    "user": "rashid_yusubov",
+    "action": "cp input.txt /"
+}
+{
+    "timestamp": "2024-11-15T13:13:03.523920",
+    "user": "rashid_yusubov",
+    "action": "cd .."
+}
+{
+    "timestamp": "2024-11-15T13:13:12.321580",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:13:31.614342",
+    "user": "rashid_yusubov",
+    "action": "cp input.txt etc"
+}
+{
+    "timestamp": "2024-11-15T13:13:35.856227",
+    "user": "rashid_yusubov",
+    "action": "cd etc"
+}
+{
+    "timestamp": "2024-11-15T13:13:40.270667",
+    "user": "rashid_yusubov",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-15T13:15:19.363652",
+    "user": "rashid_yusubov",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-15T13:15:22.470940",
+    "user": "rashid_yusubov",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-15T13:15:25.023036",
+    "user": "rashid_yusubov",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-11-22T10:32:05.522235",
+    "user": "username",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-11-22T10:32:09.048414",
+    "user": "username",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-11-22T10:32:12.201074",
+    "user": "username",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-11-22T10:32:32.558154",
+    "user": "username",
+    "action": "cd home"
+}
+{
+    "timestamp": "2024-11-22T10:32:39.174229",
+    "user": "username",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-12-02T01:23:18.645187",
+    "user": "username",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-12-02T01:23:20.556799",
+    "user": "username",
+    "action": "pwd"
+}
+{
+    "timestamp": "2024-12-02T01:23:25.820709",
+    "user": "username",
+    "action": "whoami"
+}
+{
+    "timestamp": "2024-12-02T01:23:28.436790",
+    "user": "username",
+    "action": "exit"
+}
+{
+    "timestamp": "2024-12-02T05:34:26.439897",
+    "user": "username",
+    "action": "ls"
+}
+{
+    "timestamp": "2024-12-02T05:34:29.990641",
+    "user": "username",
+    "action": "exit"
+}
