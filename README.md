@@ -81,7 +81,7 @@
 ### Клонирование репозитория:
 
 ```bash
-git clone https://github.com/Rashid-Yusubov/Configuration-management.git
+git clone https://github.com/masha0004/homework1/tree/main
 cd Configuration-management
 ```
 
